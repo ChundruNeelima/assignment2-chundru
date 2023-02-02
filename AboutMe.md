@@ -14,3 +14,10 @@ I am very happy to see the various people in the world
 |  Korea        |  To see buildings     |  5                   |
 |  Germany      |  To Visit Relatives   |  14                  |
 |  Spain        |  To Study             |  8                   |
+
+---
+
+# Phity Quotes
+> Tomorrow is often the busiest day of the week. -_Prashanth_
+>
+> When I was a kid my parents moved a lot, but I always found them. -_Rodney Dangerfield_
