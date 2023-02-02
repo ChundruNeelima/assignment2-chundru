@@ -21,3 +21,22 @@ I am very happy to see the various people in the world
 > Tomorrow is often the busiest day of the week. -_Prashanth_
 >
 > When I was a kid my parents moved a lot, but I always found them. -_Rodney Dangerfield_
+
+---
+
+# Code Fencing
+
+> How to do Count Script Excecution Time?
+[Link](https://stackoverflow.com/questions/535020/tracking-the-script-execution-time-in-php)
+
+PHP
+```
+$execution_time = microtime(); // Start counting
+
+// Your code
+
+$execution_time = microtime() - $execution_time;
+printf('It took %.5f sec', $execution_time);
+
+```
+[link](https://css-tricks.com/snippets/php/count-script-excecution-time/)
